@@ -8,5 +8,8 @@ The project was written using YT-DLP using BATCH. It's currently in its early st
 - The highest settings for the selected MP4 or MP3 (made using options within YT-DLP, so you simply select and insert the link) are set by default.
 - Files that are hard to find or exactly what YT-DLP needs to run, namely FFMPEG and FFPROBE, are included.
 
-- NO ORIGINAL FILES HAVE BEEN MODIFIED IN ANY WAY, AND NO CHANGES HAVE BEEN MADE TO ANY LINES, CODES, OR FILES IN YT-DLP!
-- THE PURPOSE OF THE PROJECT IS TO DO YOUR WORK THROUGH A BATCH FILE USING FFMPEG, FFPROBE, YT-DLP!
+FFMPEG and FFPROBE are provided as separate links. Make sure all files are in separate folders. FFMPEG, FFPROBE, BATCH, and YT-DLP must be in the same folder.
+FFMPEG and FFPROBE download link: https://drive.google.com/file/d/1BpcBlu0rnJG24lvNX-RcTpGjjbV0m5ra/view?usp=sharing
+
+! NO ORIGINAL FILES HAVE BEEN MODIFIED IN ANY WAY, AND NO CHANGES HAVE BEEN MADE TO ANY LINES, CODES, OR FILES IN YT-DLP !
+! THE PURPOSE OF THE PROJECT IS TO DO YOUR WORK THROUGH A BATCH FILE USING FFMPEG, FFPROBE, YT-DLP !
