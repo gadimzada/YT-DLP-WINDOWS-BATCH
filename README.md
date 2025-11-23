@@ -1,6 +1,7 @@
 # YT-DLP-WINDOWS-BATCH
 
-The project was written using YT-DLP using BATCH. It's currently in its early stages. The current version includes:
+The project was written using YT-DLP using BATCH. The aim of the project is to perform transactions that are entered and executed with options, without using any options.
+It's currently in its early stages. The current version includes:
 
 - A classic entry section is available.
 - A destination folder selection section is available.
