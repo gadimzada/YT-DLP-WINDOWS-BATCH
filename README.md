@@ -1,4 +1,4 @@
-# YT-DLP-WINDOWS-BATCH
+# YT-DLP-WINDOWS-BATCH v1
 
 The project was written using YT-DLP using BATCH. The aim of the project is to perform transactions that are entered and executed with options, without using any options.
 It's currently in its early stages. The current version includes:
